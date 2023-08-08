@@ -53,19 +53,19 @@ def max_num(a, b):
 
 勾选Thonny菜单栏的“文件”，如下图所示。
 
-![DShanMCU-Mio_MicroPython_chapter3_images_001](_images/chapter3_images/DShanMCU-Mio_MicroPython_chapter3-8_images_001.jpg)
+![DShanMCU-Mio_MicroPython_chapter3_images_001](https://photos.100ask.net/esp32-docs/DShanMCU-Mio/MicroPython/chapter3/DShanMCU-Mio_MicroPython_chapter3-8_images_001.jpg)
 
 然后我们看到文件窗口出来了，我们点击 "此电脑" 浏览我们的磁盘，进入到我们的基础示例所在的目录：
 
-![DShanMCU-Mio_MicroPython_chapter3-8_images_002](_images/chapter3_images/DShanMCU-Mio_MicroPython_chapter3-8_images_002.jpg)
+![DShanMCU-Mio_MicroPython_chapter3-8_images_002](https://photos.100ask.net/esp32-docs/DShanMCU-Mio/MicroPython/chapter3/DShanMCU-Mio_MicroPython_chapter3-8_images_002.jpg)
 
 双击 "基础语法" 目录，即可看到这样的窗口，这样只会展示此目录的内容，后面操作起来方便很多：
 
-![DShanMCU-Mio_MicroPython_chapter3-8_images_003](_images/chapter3_images/DShanMCU-Mio_MicroPython_chapter3-8_images_003.jpg)
+![DShanMCU-Mio_MicroPython_chapter3-8_images_003](https://photos.100ask.net/esp32-docs/DShanMCU-Mio/MicroPython/chapter3/DShanMCU-Mio_MicroPython_chapter3-8_images_003.jpg)
 
 找到 “exp16.py” 文件，选中它，鼠标右边，选择 `上传到/` ，然后在 `MicroPython设备` 窗口会看到多了 “exp16.py” 文件，如下图所示：
 
-![DShanMCU-Mio_MicroPython_chapter3-8_images_004](_images/chapter3_images/DShanMCU-Mio_MicroPython_chapter3-8_images_004.jpg)
+![DShanMCU-Mio_MicroPython_chapter3-8_images_004](https://photos.100ask.net/esp32-docs/DShanMCU-Mio/MicroPython/chapter3/DShanMCU-Mio_MicroPython_chapter3-8_images_004.jpg)
 
 然后在 Thonny 中创建 “exp17.py” ，调用刚才的模块，代码如下代码段所示：
 
@@ -80,4 +80,4 @@ exp16.max_num(10, 35)
 
 效果如下图所示：
 
-![DShanMCU-Mio_MicroPython_chapter3-8_images_005](_images/chapter3_images/DShanMCU-Mio_MicroPython_chapter3-8_images_005.jpg)
+![DShanMCU-Mio_MicroPython_chapter3-8_images_005](https://photos.100ask.net/esp32-docs/DShanMCU-Mio/MicroPython/chapter3/DShanMCU-Mio_MicroPython_chapter3-8_images_005.jpg)

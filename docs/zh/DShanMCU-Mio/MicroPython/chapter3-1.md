@@ -8,4 +8,4 @@ MicroPython设计的初衷是用于控制硬件，尽管MicroPython努力与桌�
 
 本章涉及的示例程序所在的路径：`DShanMCU-Mio(澪)_MicroPython学习资料/02_示例程序/00_基础语法`
 
-![DShanMCU-Mio_MicroPython_chapter3-1_images_001](_images/chapter3_images/DShanMCU-Mio_MicroPython_chapter3-1_images_001.jpg)
+![DShanMCU-Mio_MicroPython_chapter3-1_images_001](https://photos.100ask.net/esp32-docs/DShanMCU-Mio/MicroPython/chapter3/DShanMCU-Mio_MicroPython_chapter3-1_images_001.jpg)

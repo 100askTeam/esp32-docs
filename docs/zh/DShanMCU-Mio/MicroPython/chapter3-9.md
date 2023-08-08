@@ -38,6 +38,6 @@ hello MicroPython
 
 这个时候我们在 MicroPython设备 窗口，按下鼠标右键在弹出的菜单栏中选择 `显示隐藏文件` 选项，就能看到 "hello.txt" 文件，如下图所示：
 
-![DShanMCU-Mio_MicroPython_chapter3-9_images_001](_images/chapter3_images/DShanMCU-Mio_MicroPython_chapter3-9_images_001.jpg)
+![DShanMCU-Mio_MicroPython_chapter3-9_images_001](https://photos.100ask.net/esp32-docs/DShanMCU-Mio/MicroPython/chapter3/DShanMCU-Mio_MicroPython_chapter3-9_images_001.jpg)
 
 > 在 Thonny 中默认只会识别并显示 .py 后缀的文件，如果是其他文件会被Thonny认为是无法识别使用的文件而被屏蔽起来。

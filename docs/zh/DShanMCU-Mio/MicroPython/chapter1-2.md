@@ -22,12 +22,12 @@ DShanMCU-Mio(澪) 开发板由百问网 DShan MCU 团队设计研发，有以下
 - 支持百问网墨水屏和彩屏
 
 
-![DShanMCU-Mio(澪)](_images/chapter1_images/DShanMCU-Mio_MicroPython_chapter1-2_images_001.jpg)
+![DShanMCU-Mio(澪)](https://photos.100ask.net/esp32-docs/DShanMCU-Mio/MicroPython/chapter1/DShanMCU-Mio_MicroPython_chapter1-2_images_001.jpg)
 
 
 DShanMCU-Mio(澪)引脚图：
 
-![DShanMCU-Mio(澪)引脚图](_images/chapter1_images/DShanMCU-Mio_MicroPython_chapter1-2_images_002.jpg)
+![DShanMCU-Mio(澪)引脚图](https://photos.100ask.net/esp32-docs/DShanMCU-Mio/MicroPython/chapter1/DShanMCU-Mio_MicroPython_chapter1-2_images_002.jpg)
 
 点击此连接获取 DShanMCU-Mio(澪)引脚图 的超清原图：[https://forums.100ask.net/uploads/short-url/3O4SU8IJlfLQBi0vGaKCXECPAtB.zip](https://forums.100ask.net/uploads/short-url/3O4SU8IJlfLQBi0vGaKCXECPAtB.zip)
 
