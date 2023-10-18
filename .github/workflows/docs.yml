@@ -34,7 +34,8 @@ jobs:
         run: pnpm install --frozen-lockfile
 
       - name: Build documentation site
-        run:  pnpm docs:release
+        run:  |
+          pnpm docs:release
           git clone https://${{secrets.CODING_USERNAME}}:${{secrets.CODING_PASSWD}}@e.coding.net/weidongshan/vuepress-next-docs/esp32.git --branch master --single-branch master --depth=1
           echo "ls master" && ls master
           cp -r docs/.vuepress/dist/* master
