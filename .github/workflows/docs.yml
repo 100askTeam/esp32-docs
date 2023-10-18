@@ -34,7 +34,19 @@ jobs:
         run: pnpm install --frozen-lockfile
 
       - name: Build documentation site
-        run: pnpm docs:release
+        run:  pnpm docs:release
+          git clone https://${{secrets.CODING_USERNAME}}:${{secrets.CODING_PASSWD}}@e.coding.net/weidongshan/vuepress-next-docs/esp32.git --branch master --single-branch master --depth=1
+          echo "ls master" && ls master
+          cp -r docs/.vuepress/dist/* master
+          touch master/.nojekyll
+          cd master
+          
+          git config --local user.email "baiwenwang@100ask.com"
+          git config --local user.name "www.100ask.net"
+          git add .
+          git commit -m "Update documentation" -a || true
+          git push origin master
+          cd -
 
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v2.2.0
@@ -42,6 +54,6 @@ jobs:
           repo: 100askTeam/esp32-docs
           target_branch: gh-pages
           build_dir: docs/.vuepress/dist
-          fqdn: esp32.100ask.net
+          fqdn: esp32.100ask.org
         env:
           GH_PAT: ${{ secrets.GH_PAGES_TOKEN }}
