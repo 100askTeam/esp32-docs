@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-1faf4c92","path":"/zh/Retro-Yao-Mio/chapter2-1.html","title":"ESP-IDF学习教程","lang":"中文简体","frontmatter":{},"headers":[],"git":{"updatedTime":1691476365000,"contributors":[{"name":"YobeZhou","email":"smilezyb@163.com","commits":1}]},"filePathRelative":"zh/Retro-Yao-Mio/chapter2-1.md"}');export{t as data};

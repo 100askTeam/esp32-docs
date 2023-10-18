@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-1c459b54","path":"/zh/Retro-Yao-Mio/chapter2-2.html","title":"retro-go-yao-mio源码的获取、编译、烧写","lang":"中文简体","frontmatter":{},"headers":[],"git":{"updatedTime":1691476365000,"contributors":[{"name":"YobeZhou","email":"smilezyb@163.com","commits":1}]},"filePathRelative":"zh/Retro-Yao-Mio/chapter2-2.md"}');export{t as data};

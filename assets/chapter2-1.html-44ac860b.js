@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-74144bbe","path":"/zh/DShanMCU-Mio/Arduino/chapter2-1.html","title":"获取学习资料","lang":"中文简体","frontmatter":{},"headers":[],"git":{"updatedTime":1691476365000,"contributors":[{"name":"YobeZhou","email":"smilezyb@163.com","commits":1}]},"filePathRelative":"zh/DShanMCU-Mio/Arduino/chapter2-1.md"}');export{e as data};

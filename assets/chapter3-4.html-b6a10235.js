@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-78263d75","path":"/zh/DShanMCU-Mio/MicroPython/chapter3-4.html","title":"打印","lang":"中文简体","frontmatter":{},"headers":[],"git":{"updatedTime":1691476365000,"contributors":[{"name":"YobeZhou","email":"smilezyb@163.com","commits":1}]},"filePathRelative":"zh/DShanMCU-Mio/MicroPython/chapter3-4.md"}');export{t as data};

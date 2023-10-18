@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-11f9e935","path":"/zh/DShanMCU-Mio/MicroPython/chapter2-5.html","title":"基于MacOS平台搭建开发环境","lang":"中文简体","frontmatter":{},"headers":[],"git":{"updatedTime":1691476365000,"contributors":[{"name":"YobeZhou","email":"smilezyb@163.com","commits":1}]},"filePathRelative":"zh/DShanMCU-Mio/MicroPython/chapter2-5.md"}');export{t as data};
